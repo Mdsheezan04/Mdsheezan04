@@ -1,5 +1,5 @@
 # 💫 About Me:
-##  Hi👋,  i'm Md Sheezan ✨<br><br><br>✍🏻️ BCA student at Bidar University<br>👀 i am interested in web dev development  <br>🌍 Proudly from Basavakalyan | based in Karnataka<br>👨🏻‍💻 passionate about computer programming
+##  👋 Hi,  i'm Md Sheezan ✨<br><br><br> ✍🏻️ BCA student at Bidar University<br>👀 i am interested in web dev development  <br>🌍 Proudly from Basavakalyan | based in Karnataka<br>👨🏻‍💻 passionate about computer programming
 
 
 ## 🌐 Socials:
